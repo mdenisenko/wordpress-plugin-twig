@@ -26,7 +26,7 @@
     }
   },
   "require": {
-    "twig/twig": "^2.11"
+    "twig/twig": "^3.11"
   },
   "require-dev": {
     "10up/wp_mock": "^0.4.2"
